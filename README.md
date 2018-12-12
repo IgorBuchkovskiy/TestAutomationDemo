@@ -12,4 +12,4 @@ Here are the steps covered in this DEMO:
 8) assert if 'geras' is in included in search criteria. P.S. This assertion intentionally fails - just to see how it looks when it fails.
 9) browser is closed.
 
-Technologies used: Java, junit, selenium
+Technologies used: Java, junit, maven, selenium
